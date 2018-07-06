@@ -1,7 +1,6 @@
 # SURF BUDDY
 ---
-### WEBSITE [CLICK HERE](https://stark-castle-27893.herokuapp.com/) 
-### TRELLO BOARD [CLICK HERE] (https://trello.com/b/qXTij8xs) 
+### WEBSITE [CLICK HERE](https://stark-castle-27893.herokuapp.com/) // TRELLO BOARD [CLICK HERE](https://trello.com/b/qXTij8xs) 
 
 #### (JAWS THEME) NEVER SURF ALONE! 
 Surf Buddy bridges surfers and their experiences of all the best spots in California. On-site feedback is the best indicator of current conditions. 
